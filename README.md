@@ -16,7 +16,7 @@ Este repositorio contiene los siguientes directorios y archivos:
 
 Descarga el código del repositorio utilizando el siguiente comando:
 
-`git clone https://gitlab.com/tareas-arquitectura-de-software-curso/microservicios/pagos.git`
+`git clone https://github.com/Vacilon/gss-pagos.git pagos`
 
 accede a la carpeta del microservicio
 
